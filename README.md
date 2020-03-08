@@ -4,6 +4,6 @@ This is a repository to teach students how to architect evolving software system
 
 # Overview
 
-An Architecture for Building Evolvable Software Systems
+[An Architecture for Building Evolvable Software Systems](https://github.com/Evobolics/BattleSharp/wiki/Evolvable-Software-Systems)
 
 BattleSharp
